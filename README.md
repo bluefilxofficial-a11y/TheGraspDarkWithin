@@ -25,3 +25,4 @@ https://youtu.be/Y9s_t3tdMvI?si=g03AD2A9CVYk1mZJ
 
 ## Social Media
 Instagram: @blueflixproduction
+![Poster](MyPoster.png)
